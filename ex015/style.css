@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body{
+    background-color: lightgoldenrodyellow;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20PX;
+}
+h1{
+    color: black;
+    background-color: darkkhaki;
+}
+h2{
+    color:cadetblue;
+}
+p{
+    text-align: justify;
+}
